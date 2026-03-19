@@ -1,66 +1,44 @@
-<div align="center">
+# Hi, I'm Irfan
 
-# 👋 Hi, I'm Irfan
-
-### Information Security · GRC · Risk & Compliance
-
-![Profile Views](https://komarev.com/ghpvc/?username=irfanm46&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/irfanm46?color=7c3aed&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/irfanm46/annexa?color=00e5ff&style=for-the-badge&label=ANNEXA+STARS&logo=github&logoColor=white)
-
-</div>
+**Information Security · GRC · Risk & Compliance**
 
 ---
 
-### 👤 About Me
+## About Me
 
 ```yaml
 name     : Irfan
-role     : Information Security Analyst
+role     : GRC Analyst / InfoSec Analyst (Targeting)
 location : India
 focus    :
-  - ISO 27001 + Annex A controls
+  - ISO 27001:2022 · Annex A Controls
   - GRC · Risk Assessment · Compliance
   - Threat Analysis · Audit Preparation
   - ISMS · Evidence Collection
-building : annexa — ISO 27001:2022 open-source toolkit
 open_to  :
   - GRC Analyst
   - InfoSec Analyst
   - Junior Security Auditor
+mission  : Build tools that make compliance usable for every engineer and security team.
 ```
 
-> Most compliance resources are written for auditors. I build tools for the people who actually have to implement security.
+---
+
+## Security Domains
+
+`ISO 27001` · `GRC` · `Risk Management` · `Threat Analysis` · `NIST` · `GDPR` · `SOC 2` · `CISA` · `Audit & Compliance` · `ISMS`
 
 ---
 
-### 🔐 Security Domains
+## Portfolio — Cyber Tools
 
-<div align="center">
+Three open tools built for engineers and security teams. No signup. No backend. Offline first.
 
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-0d1117?style=for-the-badge&logo=springsecurity&logoColor=00e5ff)
-![GRC](https://img.shields.io/badge/GRC-0d1117?style=for-the-badge&logo=checkmarx&logoColor=00e5ff)
-![Risk Management](https://img.shields.io/badge/Risk_Management-0d1117?style=for-the-badge&logo=openbugbounty&logoColor=7c3aed)
-![Threat Analysis](https://img.shields.io/badge/Threat_Analysis-0d1117?style=for-the-badge&logo=virustotal&logoColor=00e5ff)
-![NIST](https://img.shields.io/badge/NIST-0d1117?style=for-the-badge&logo=nestjs&logoColor=7c3aed)
-![GDPR](https://img.shields.io/badge/GDPR-0d1117?style=for-the-badge&logo=googleprivacysandbox&logoColor=00e5ff)
-![SOC2](https://img.shields.io/badge/SOC2-0d1117?style=for-the-badge&logo=sonarcloud&logoColor=7c3aed)
-![SIEM](https://img.shields.io/badge/SIEM-0d1117?style=for-the-badge&logo=elastic&logoColor=00e5ff)
-![Audit](https://img.shields.io/badge/Audit_and_Compliance-0d1117?style=for-the-badge&logo=gitbook&logoColor=7c3aed)
-![ISMS](https://img.shields.io/badge/ISMS-0d1117?style=for-the-badge&logo=shieldsdotio&logoColor=00e5ff)
+### annexa — ISO 27001:2022 Compliance Toolkit
+ISO 27001:2022 toolkit that turns every Annex A control into an actionable tool. Built for engineers and GRC teams who need to implement compliance, not just document it.
 
-</div>
-
----
-
-### 🚀 Featured Project — annexa
-
-> **[annexa](https://irfanm46.github.io/annexa)** — ISO 27001:2022 toolkit that turns every Annex A control into an actionable tool. Built for engineers and GRC teams who need to implement compliance, not just document it.
-
-<div align="center">
-
-| Feature | What it solves |
-|---------|---------------|
+| Feature | What It Solves |
+|---|---|
 | Compliance Heatmap | Visual status of all 93 controls at a glance |
 | Risk Register | Score, sort by severity, export for auditors |
 | SoA Generator | Audit-ready Statement of Applicability in 5 mins |
@@ -68,52 +46,41 @@ open_to  :
 | Posture Score | ISMS radar chart across 4 Annex A domains |
 | Evidence Wizard | Exact checklist of what auditors will ask for |
 | Code Snippets | Terraform · GitHub Actions · Bash · Python |
-| 2013 to 2022 Diff | Full migration map for transitioning orgs |
+| 2013 → 2022 Diff | Full migration map for transitioning orgs |
 
-[![Live Tool](https://img.shields.io/badge/LIVE_TOOL-irfanm46.github.io/annexa-00e5ff?style=for-the-badge&logo=githubpages&logoColor=black)](https://irfanm46.github.io/annexa)
-[![Source](https://img.shields.io/badge/SOURCE-github.com/irfanm46/annexa-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanm46/annexa)
-
-`Free` `Offline` `No Signup` `Open Source` `144KB Single File`
-
-</div>
+`LIVE` [irfanm46.github.io/annexa](https://irfanm46.github.io/annexa) · `SOURCE` [github.com/irfanm46/annexa](https://github.com/irfanm46/annexa)
 
 ---
 
-### 📊 GitHub Stats
+### NetKill — Network Attack Simulation Lab
+Browser-based interactive network attack lab. 7 attack simulations with animated packet flow, MITRE ATT&CK mappings, four-phase kill chains, and byte-level packet analysis. Pure red team attacker mindset.
 
-<div align="center">
+| Feature | What It Covers |
+|---|---|
+| Attack Simulations | ARP Spoofing, DNS Poisoning, SYN Flood, VLAN Hopping, DHCP Starvation, BGP Hijacking, Full MITM |
+| Kill Chain Engine | Four-phase attack lifecycle with real commands |
+| MITRE ATT&CK | Full framework mapping per attack |
+| Live Packet Forge | Byte-level packet structure analysis |
+| Detection Log | Real-time attacker/defender event feed |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfanm46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=7c3aed&text_color=cbd5e1&rank_icon=github&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanm46&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=cbd5e1)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=irfanm46&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=7c3aed&currStreakLabel=00e5ff&sideLabels=cbd5e1&dates=64748b)
-
-</div>
-
----
-
-### ⚡ Currently
-
-```yaml
-building : annexa v0.4 - Framework Mapper (ISO to SOC2 to NIST to GDPR to PCI-DSS)
-learning :
-  - Threat Modelling
-  - Cloud Security
-  - AI in GRC via RAG
-open_to  :
-  - GRC Analyst
-  - InfoSec Analyst
-  - Junior Security Auditor
-mission  : Make compliance usable for every engineer and security team
-```
+`LIVE` [irfanm46.github.io/netkill](https://irfanm46.github.io/netkill) · `SOURCE` [github.com/irfanm46/netkill](https://github.com/irfanm46/netkill)
 
 ---
 
-<div align="center">
+### AuditCore — GRC Audit Simulation Platform
+Browser-based GRC audit simulation platform. Run complete audit engagements from scoping to final report across 15 industry scenarios. Every decision scored. Every finding graded.
 
-`ISO 27001` · `GRC` · `Risk Management` · `Threat Analysis` · `Audit` · `ISMS` · `Open Source`
+| Feature | What It Covers |
+|---|---|
+| 15 Engagements | Banking, Healthcare, Government, Retail, Technology |
+| 7-Phase Engine | Briefing → Scoping → Evidence → Testing → Findings → Response → Report |
+| 93 Controls | Full ISO 27001:2022 searchable control library |
+| Risk Assessment Lab | 25 scenarios with likelihood × impact matrix |
+| Audit Toolkit | Risk Matrix, Findings Builder, Framework Mapper, Evidence Checklist |
+| PDF Export | Professional audit report generation |
 
-**[annexa — irfanm46.github.io/annexa](https://irfanm46.github.io/annexa)**
+`LIVE` [irfanm46.github.io/auditcore](https://irfanm46.github.io/auditcore) · `SOURCE` [github.com/irfanm46/auditcore](https://github.com/irfanm46/auditcore)
 
-</div>
+---
+
+*Most compliance resources are written for auditors. I build tools for the people who actually have to implement security.*
