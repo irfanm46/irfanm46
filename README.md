@@ -46,26 +46,24 @@ Three tools built for engineers and security teams. No signup. No backend. Offli
 
 ---
 
-### annexa — ISO 27001:2022 Compliance Toolkit
+### AuditCore — GRC Audit Simulation Platform
 
-ISO 27001:2022 toolkit that turns every Annex A control into an actionable tool. Built for engineers and GRC teams who need to implement compliance, not just document it.
+Browser-based GRC audit simulation platform. Run complete audit engagements from scoping to final report across 15 industry scenarios. Every decision scored. Every finding graded.
 
-| Feature | What It Solves |
+| Feature | What It Covers |
 |---|---|
-| Compliance Heatmap | Visual status of all 93 controls at a glance |
-| Risk Register | Score, sort by severity, export for auditors |
-| SoA Generator | Audit-ready Statement of Applicability in 5 mins |
-| Threat Mapper | Real attacks mapped to exact control gaps |
-| Posture Score | ISMS radar chart across 4 Annex A domains |
-| Evidence Wizard | Exact checklist of what auditors will ask for |
-| Code Snippets | Terraform · GitHub Actions · Bash · Python |
-| 2013 → 2022 Diff | Full migration map for transitioning orgs |
+| 15 Engagements | Banking, Healthcare, Government, Retail, Technology |
+| 7-Phase Engine | Briefing → Scoping → Evidence → Testing → Findings → Response → Report |
+| 93 Controls | Full ISO 27001:2022 searchable control library |
+| Risk Assessment Lab | 25 scenarios with likelihood × impact matrix |
+| Audit Toolkit | Risk Matrix, Findings Builder, Framework Mapper, Evidence Checklist |
+| PDF Export | Professional audit report generation |
 
 ![LIVE TOOL](https://img.shields.io/badge/GitHub%20Pages-LIVE%20TOOL-grey?style=for-the-badge&labelColor=1e293b)
-[![annexa](https://img.shields.io/badge/IRFANM46.GITHUB.IO%2FANNEXA-00e5ff?style=for-the-badge)](https://irfanm46.github.io/annexa)
+[![auditcore](https://img.shields.io/badge/IRFANM46.GITHUB.IO%2FAUDITCORE-00e5ff?style=for-the-badge)](https://irfanm46.github.io/auditcore)
 
 ![SOURCE](https://img.shields.io/badge/SOURCE-grey?style=for-the-badge&logo=github&labelColor=1e293b)
-[![annexa repo](https://img.shields.io/badge/GITHUB.COM%2FIRFANM46%2FANNEXA-7c3aed?style=for-the-badge)](https://github.com/irfanm46/annexa)
+[![auditcore repo](https://img.shields.io/badge/GITHUB.COM%2FIRFANM46%2FAUDITCORE-7c3aed?style=for-the-badge)](https://github.com/irfanm46/auditcore)
 
 ---
 
@@ -89,24 +87,26 @@ Browser-based interactive network attack lab. 7 attack simulations with animated
 
 ---
 
-### AuditCore — GRC Audit Simulation Platform
+### annexa — ISO 27001:2022 Compliance Toolkit
 
-Browser-based GRC audit simulation platform. Run complete audit engagements from scoping to final report across 15 industry scenarios. Every decision scored. Every finding graded.
+ISO 27001:2022 toolkit that turns every Annex A control into an actionable tool. Built for engineers and GRC teams who need to implement compliance, not just document it.
 
-| Feature | What It Covers |
+| Feature | What It Solves |
 |---|---|
-| 15 Engagements | Banking, Healthcare, Government, Retail, Technology |
-| 7-Phase Engine | Briefing → Scoping → Evidence → Testing → Findings → Response → Report |
-| 93 Controls | Full ISO 27001:2022 searchable control library |
-| Risk Assessment Lab | 25 scenarios with likelihood × impact matrix |
-| Audit Toolkit | Risk Matrix, Findings Builder, Framework Mapper, Evidence Checklist |
-| PDF Export | Professional audit report generation |
+| Compliance Heatmap | Visual status of all 93 controls at a glance |
+| Risk Register | Score, sort by severity, export for auditors |
+| SoA Generator | Audit-ready Statement of Applicability in 5 mins |
+| Threat Mapper | Real attacks mapped to exact control gaps |
+| Posture Score | ISMS radar chart across 4 Annex A domains |
+| Evidence Wizard | Exact checklist of what auditors will ask for |
+| Code Snippets | Terraform · GitHub Actions · Bash · Python |
+| 2013 → 2022 Diff | Full migration map for transitioning orgs |
 
 ![LIVE TOOL](https://img.shields.io/badge/GitHub%20Pages-LIVE%20TOOL-grey?style=for-the-badge&labelColor=1e293b)
-[![auditcore](https://img.shields.io/badge/IRFANM46.GITHUB.IO%2FAUDITCORE-00e5ff?style=for-the-badge)](https://irfanm46.github.io/auditcore)
+[![annexa](https://img.shields.io/badge/IRFANM46.GITHUB.IO%2FANNEXA-00e5ff?style=for-the-badge)](https://irfanm46.github.io/annexa)
 
 ![SOURCE](https://img.shields.io/badge/SOURCE-grey?style=for-the-badge&logo=github&labelColor=1e293b)
-[![auditcore repo](https://img.shields.io/badge/GITHUB.COM%2FIRFANM46%2FAUDITCORE-7c3aed?style=for-the-badge)](https://github.com/irfanm46/auditcore)
+[![annexa repo](https://img.shields.io/badge/GITHUB.COM%2FIRFANM46%2FANNEXA-7c3aed?style=for-the-badge)](https://github.com/irfanm46/annexa)
 
 ---
 
