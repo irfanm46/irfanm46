@@ -13,7 +13,7 @@ location : India
 focus    :
   - ISO 27001:2022 · Annex A Controls
   - GRC · Risk Assessment · Compliance
-  - Threat Analysis · Audit Preparation
+  - Threat Analysis · Audit Preparation 
   - ISMS · Evidence Collection
 open_to  :
   - GRC Analyst
