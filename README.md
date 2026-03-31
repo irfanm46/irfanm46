@@ -15,7 +15,7 @@ focus    :
   - GRC · Risk Assessment · Compliance
   - Threat Analysis · Audit Preparation 
   - ISMS · Evidence Collection 
-open_to  :
+open_to  : 
   - GRC Analyst
   - InfoSec Analyst 
   - Junior Security Auditor
