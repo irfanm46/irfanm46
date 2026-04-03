@@ -100,7 +100,7 @@ ISO 27001:2022 toolkit that turns every Annex A control into an actionable tool.
 | Posture Score | ISMS radar chart across 4 Annex A domains |
 | Evidence Wizard | Exact checklist of what auditors will ask for |
 | Code Snippets | Terraform · GitHub Actions · Bash · Python |
-| 2013 → 2022 Diff | Full migration map for transitioning orgs |
+| 2013 → 2022 Diff | Full migration map for transitioning orgs | 
 
 ![LIVE TOOL](https://img.shields.io/badge/GitHub%20Pages-LIVE%20TOOL-grey?style=for-the-badge&labelColor=1e293b)
 [![annexa](https://img.shields.io/badge/IRFANM46.GITHUB.IO%2FANNEXA-00e5ff?style=for-the-badge)](https://irfanm46.github.io/annexa)
