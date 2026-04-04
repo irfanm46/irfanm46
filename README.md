@@ -16,7 +16,7 @@ focus    :
   - Threat Analysis · Audit Preparation 
   - ISMS · Evidence Collection 
 open_to  :   
-  - GRC Analyst
+  - GRC Analyst 
   - InfoSec Analyst 
   - Junior Security Auditor
 mission  : Build tools that make compliance usable for every engineer and security team.
