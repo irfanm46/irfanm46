@@ -2,7 +2,7 @@
 
 **Information Security · GRC · Risk & Compliance**
 
----
+--- 
 
 ## About Me
    
