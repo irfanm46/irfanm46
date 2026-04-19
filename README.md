@@ -18,7 +18,7 @@ focus    :
 open_to  :     
   - GRC Analyst  
   - InfoSec Analyst 
-  - Junior Security Auditor
+  - Junior Security Auditor 
 mission  : Build tools that make compliance usable for every engineer and security team.
 ``` 
   
