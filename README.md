@@ -16,7 +16,7 @@ focus    :
   - Malware Analysis · EDR · Network Security
   - MITRE ATT&CK · Threat Intelligence
   - Security Monitoring · Alert Triage
-open_to  :  
+open_to  :   
   - SOC Analyst L1/L2
   - Security Operations Center Analyst
   - Threat Detection Analyst
