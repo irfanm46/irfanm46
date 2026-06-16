@@ -19,7 +19,7 @@ focus    :
 open_to  :    
   - SOC Analyst L1/L2
   - Security Operations Center Analyst 
-  - Threat Detection Analyst
+  - Threat Detection Analyst 
   - InfoSec Analyst
 mission  : Build tools that train the next generation of SOC analysts and make security operations accessible to everyone. 
 ```
