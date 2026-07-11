@@ -13,7 +13,7 @@ location : India
 focus    :
   - SIEM Analysis · Log Correlation · Threat Hunting
   - Incident Detection & Response · IR Workflows
-  - Malware Analysis · EDR · Network Security
+  - Malware Analysis · EDR · Network Security 
   - MITRE ATT&CK · Threat Intelligence
   - Security Monitoring · Alert Triage
 open_to  :    
